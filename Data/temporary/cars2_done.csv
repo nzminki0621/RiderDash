@@ -1,0 +1,414 @@
+,name,model,maker,prefix,postfix,kind,brand_maker,model_include
+0,기아 카렌스,카렌스,기아,0,0,Small suv,True,True
+1,셀토스,셀토스,기아,0,0,Small suv,True,True
+2,트래버스,트래버스,쉐보레,0,0,Mid-Large suv,True,True
+3,GOLF GTI,골프,폭스바겐,0,0,,True,True
+4,제네시스쿠페,제네시스 쿠페,현대,0,0,Sedan,True,True
+5,더뉴제네시스쿠페,제네시스 쿠페,현대,0,0,Sedan,True,True
+6,그랜저 HG,그랜저,현대,0,HG,Sedan,True,True
+7,아테온,아테온,폭스바겐,0,0,Sedan,True,True
+8,new E클래스,E-클래스,벤츠,0,0,,True,True
+9,BMW 5 시리즈 E60/61,5 시리즈,BMW,0,0,Sedan,True,True
+10,XC40,XC40,볼보,0,0,Mid-Large suv,True,True
+11,CC,CC,폭스바겐,0,0,Sedan,True,True
+12,현대 아슬란 AG,아슬란,현대,0,AG,Sedan,True,True
+13,모델 X,모델 X,테슬라,0,0,Mid-Large suv,True,True
+14,폭스바겐 CC,CC,폭스바겐,0,0,Sedan,True,True
+15,뉴그랜져,그랜저,현대,0,0,,True,True
+16,A4,A4,아우디,0,0,Sedan,True,True
+17,쌍용 티볼리 X100,티볼리,쌍용,0,X100,Small suv,True,True
+18,라세티프리미어,라세티,쉐보레/한국GM,프리미어,0,Sedan,True,True
+19,캡쳐,캡처,르노삼성,0,0,,True,True
+20,르노삼성 SM5 KPQ,SM5,르노삼성,0,0,Sedan,True,True
+21,X6M,X6 M,BMW,0,0,Mid-Large suv,True,True
+22,테라칸,테라칸,현대,0,0,Mid-Large suv,True,True
+23,쉐보레 트랙스,트랙스,쉐보레/한국GM,0,0,Small suv,True,True
+24,기아 모하비 더마스터,모하비,기아,0,0,Mid-Large suv,True,True
+25,현대 아슬란,아슬란,현대,0,0,Sedan,True,True
+26,쉐보레/한국GM 볼트,볼트,쉐보레/한국GM,0,0,Sedan,True,True
+27,르노삼성 뉴 SM5 EX1/DF,SM5,르노삼성,0,0,Sedan,True,True
+28,랜드로버 디스커버리4,디스커버리,랜드로버,0,0,Mid-Large suv,True,True
+29,마티즈,마티즈,쉐보레/한국GM,0,0,Sedan,True,True
+30,기아 뉴프라이드,프라이드,기아,0,0,Sedan,True,True
+31,벤츠 E-클래스 W212,E-클래스,벤츠,0,W212,Sedan,True,True
+32,현대 벨로스터 FS,벨로스터,현대,0,FS,Sedan,True,True
+33,기아 로체,로체,기아,0,0,Sedan,True,True
+34,기아 K3 Koup,K3,기아,0,0,Sedan,True,True
+35,랜드로버 레인지로버,레인지로버,랜드로버,0,0,Mid-Large suv,True,True
+36,토요타 프리우스 2017년형,프리우스,토요타,0,0,Sedan,True,True
+37,BMW X-6,X6,BMW,0,0,,True,True
+38,올뉴아반떼,아반떼,현대,올뉴,0,Sedan,True,True
+39,기아 포르테 쿱 XK,포르테 쿱,기아,0,0,Coupe,True,True
+40,르노삼성 마스터 벤,마스터,르노,0,벤,van,True,True
+41,트럭,,,0,0,,True,False
+42,AClass,A-클래스,벤츠,0,0,,True,True
+43,현대 세부 분류,,,0,0,,True,False
+44,크라이슬러 300C,300C,크라이슬러,0,0,Sedan,True,True
+45,현대 EF쏘나타,쏘나타,현대,0,EF,Sedan,True,True
+46,마세라티 기블리,기블리,마세라티,0,0,Sedan,True,True
+47,308CC,308,푸조,0,0,Coupe,True,True
+48,렉서스 LS600hL,LS,렉서스,0,0,,False,True
+49,기아 K5 JK,K5,기아,0,0,Sedan,True,True
+50,기타,,,0,0,,True,False
+51,현대 2 2열 포터 HR,2열 포터,현대,0,HR,Two row truck,True,True
+52,기아 뉴카렌스,카렌스,기아,뉴,0,Small suv,True,True
+53,제네시스 GV70,GV70,제네시스,0,0,Sedan,True,True
+54,비이스만 GT 2020년형,GT,비이스만,0,0,,False,True
+55,미니 컨트리맨,컨트리맨,미니,0,0,Small suv,True,True
+56,폭스바겐 티구안 2018년형,티구안,폭스바겐,0,0,Mid-Large suv,True,True
+57,닷지 니트로 2020년형,니트로,닷지,0,0,Mid-Large suv,True,True
+58,undefined 특수차량,,,0,0,,True,False
+59,BMW 2 시리즈,2 시리즈,BMW,0,0,Sedan,True,True
+60,벤츠 E-클래스 E450,E-클래스,벤츠,0,0,Sedan,True,True
+61,기아 쏘울 부스터 EV SK3,쏘울,기아,부스터 EV,SK3,Sedan,True,True
+62,NX300,NX,렉서스,0,0,Mid-Large suv,True,True
+63,볼보 V40,V40,볼보,0,0,Small suv,True,True
+64,현대 아반떼 XD,아반떼,현대,0,XD,Sedan,True,True
+65,카렌스,카렌스,기아,0,0,Small suv,True,True
+66,푸조 3008,3008,푸조,0,0,Small suv,True,True
+67,다이하쓰 마테리아 2020년형,마테리아,다이하쓰,0,0,Sedan,True,True
+68,뉴베르나,베르나,현대,뉴,0,Sedan,True,True
+69,현대 HEV 아반떼 HD,아반떼,현대,0,HD,Sedan,True,True
+70,르노삼성 SM7 Ex2,SM7,르노삼성,0,Ex2,Sedan,True,True
+71,카렌스2,카렌스,기아,2,0,Small suv,True,True
+72,닛산 350Z,350Z,닛산,0,0,Coupe,True,True
+73,토요타 프리우스,프리우스,토요타,0,0,Sedan,True,True
+74,기아 카렌스 2 RS,카렌스,기아,2,RS,Small suv,True,True
+75,현대 더 뉴 아이오닉,아이오닉,현대,0,0,Sedan,True,True
+76,IS,IS,렉서스,0,0,Sedan,True,True
+77,쉐보레/대우 임팔라 10세대,임팔라,쉐보레,0,10세대,Sedan,True,True
+78,쉐보레/대우 임팔라,임팔라,쉐보레,0,0,Sedan,True,True
+79,현대 트라제XG,트라제XG,현대,0,0,van,True,True
+80,혼다 어큐라,,혼다,0,0,,True,False
+81,닷지 챌린저,챌린저,닷지,0,0,Coupe,True,True
+82,쉐보레/대우 볼트 2019년형,볼트,쉐보레/한국GM,0,2,Sedan,True,True
+83,푸조 508,508,푸조,0,0,Sedan,True,True
+84,혼다 CR-V 2020년형,CR-V,혼다,0,0,Small suv,True,True
+85,쉐보레/대우 트랙스 U200,트랙스,쉐보레/한국GM,0,0,Small suv,True,True
+86,볼보 XC90 2019년형,XC90,볼보,0,0,Mid-Large suv,True,True
+87,체어맨H,체어맨,쌍용,H,0,Sedan,True,True
+88,2012프라이드,프라이드,기아,0,0,Sedan,True,True
+89,쌍용 렉스턴 2 Y200,렉스턴,쌍용,0,0,,True,True
+90,디스커버리,디스커버리,랜드로버,0,0,Mid-Large suv,True,True
+91,볼보 C30,C30,볼보,0,0,Sedan,True,True
+92,기아 EV 레이 TAM,레이,기아,EV,TAM,Sedan,True,True
+93,릿지라인,리지라인,혼다,0,0,,True,True
+94,아우디 Q5 2016년형,Q5,아우디,0,0,Mid-Large suv,True,True
+95,BMWM5,M5,BMW,0,0,Sedan,True,True
+96,아우디 A6 2019년형,A6,아우디,0,0,Sedan,True,True
+97,볼보 XC70,XC70,볼보,0,0,Mid-Large suv,True,True
+98,토요타 시에나,시에나,토요타,0,0,van,True,True
+99,현대 (구) 제네시스 BH,제네시스,현대,0,BH,Sedan,True,True
+100,리베로,1열 리베로,현대,0,0,,True,True
+101,K5 ,K5,기아,0,0,Sedan,True,True
+102,램밴,램 밴,닷지,0,0,,True,True
+103,Passat Variant,파사트,폭스바겐,0,0,,True,True
+104,M37,M 시리즈,인피니티,0,0,Sedan,True,True
+105,INFINITI M35,M 시리즈,인피니티,0,0,Sedan,True,True
+106,BMWnew3시리즈,3 시리즈,BMW,0,0,,True,True
+107,렉서스 LS시리즈,LS,렉서스,0,0,,False,True
+108,535d,5 시리즈,BMW,0,0,,True,True
+109,SQ5,SQ,아우디,0,0,Mid-Large suv,True,True
+110,쏘나타3,쏘나타,현대,0,0,Sedan,True,True
+111,갤로퍼,갤로퍼,현대,0,0,Mid-Large suv,True,True
+112,무쏘,무쏘,쌍용,0,0,Mid-Large suv,True,True
+113,이보크,레인지로버 이보크,랜드로버,0,0,,True,True
+114,E240,E-클래스,벤츠,0,0,,True,True
+115,Audi R8,R8,아우디,0,0,Coupe,True,True
+116,올뉴K5,K5,기아,0,0,Sedan,True,True
+117,렉서스 GS 350,GS,렉서스,0,0,Sedan,True,True
+118,렉서스 RX 2021년형,RX,렉서스,0,0,,False,True
+119,테슬라 모델 X,모델 X,테슬라,0,0,Mid-Large suv,True,True
+120,폭스바겐 시로코 2013년형,시로코,폭스바겐,0,0,Sedan,True,True
+121,시트로엥 DS7 2020년형,DS7,시트로엥,0,0,Mid-Large suv,True,True
+122,쉐보레/한국GM 알페온 VS300,알페온,쉐보레/한국GM,0,0,Sedan,True,True
+123,BMW X4 G02,X4,BMW,0,G02,Mid-Large suv,True,True
+124,벤츠 GT-클래스 S AMG C190,GT-클래스,벤츠,0,0,Sedan,True,True
+125,쉐보레/한국GM 캡티바,캡티바,홀덴,0,0,Mid-Large suv,True,True
+126,BMW M3,M3,BMW,0,0,Sedan,True,True
+127,BMW X1,X1,BMW,0,0,Mid-Large suv,True,True
+128,폭스바겐 투아렉 2021년형,투아렉,폭스바겐,0,0,Mid-Large suv,True,True
+129,포르쉐 911 2014년형,911,포르쉐,0,0,Coupe,True,True
+130,쉐보레/한국GM 임팔라,임팔라,쉐보레,0,0,Sedan,True,True
+131,현대 맥스크루즈 NC,맥스크루즈,현대,0,0,Mid-Large suv,True,True
+132,마세라티 콰트로포르테 2018년형,콰트로포르테,마세라티,0,0,Sedan,True,True
+133,노브스,노브스,대우,0,0,,True,False
+134,미니 컨트리맨 R60,컨트리맨,미니,0,0,Small suv,True,True
+135,푸조 5008 2021년형,5008,푸조,0,0,Small suv,True,True
+136,폭스바겐 아테온 2020년형,아테온,폭스바겐,0,0,Sedan,True,True
+137,쉐보레/한국GM 임팔라 10세대,임팔라,쉐보레,0,10세대,Sedan,True,True
+138,벤츠 S-클래스 C222 S65 AMG 쿠페,S-클래스,벤츠,0,0,Sedan,True,True
+139,벤츠 GLC-클래스 63 AMG X253,GLC-클래스,벤츠,0,0,Mid-Large suv,True,True
+140,벤츠 CLK-클래스,CLK-클래스,벤츠,0,0,Sedan,True,True
+141,벤츠 GLB-클래스 X247,GLB-클래스,벤츠,0,X247,Small suv,True,True
+142,쉐보레/한국GM 뉴 크루즈 J300,크루즈,홀덴,뉴,J300,Sedan,True,True
+143,지프 레니게이드 2021년형,레니게이드,지프,0,0,Small suv,True,True
+144,랜드로버 디스커버리 스포츠 2017년형,디스커버리 스포츠,랜드로버,0,0,Mid-Large suv,True,True
+145,BMW M2 F87,M2,BMW,0,F87,Sedan,True,True
+146,BMW X1 E84,X1,BMW,0,E84,Mid-Large suv,True,True
+147,인피니티 Q 시리즈 2018년형,Q 시리즈,인피니티,0,0,Sedan,True,True
+148,캐딜락 CTS 쿠페,CTS 쿠페,캐딜락,0,0,Sedan,True,True
+149,플라잉스퍼,컨티넨탈 플라잉스퍼,벤틀리,0,0,,True,True
+150,인피니티 QX,QX,인피니티,0,0,Mid-Large suv,True,True
+151,혼다 어코드 2017년형,어코드,혼다,0,0,Sedan,True,True
+152,캐딜락 CT6 2020년형,CT6,캐딜락,0,0,Sedan,True,True
+153,볼보 S90 2020년형,S90,볼보,0,0,Sedan,True,True
+154,닛산 올 뉴 알티마 F/L L33,알티마,닛산,올 뉴,F/L L33,Sedan,True,True
+155,토요타 캠리 2017년형,캠리,토요타,0,0,Sedan,True,True
+156,아우디 S8 2020년형,S8,아우디,0,0,Sedan,True,True
+157,벤츠 SL-클래스 R231,SL-클래스,벤츠,0,R231,Coupe,True,True
+158,렉서스 IS,IS,렉서스,0,0,Sedan,True,True
+159,아우디 E-tron 2021년형,E-tron,아우디,0,0,Mid-Large suv,True,True
+160,람보르기니 가야드로,가야드로,람보르기니,0,0,Coupe,True,True
+161,링컨 MKZ 2021년형,MKZ,링컨,0,0,Sedan,True,True
+162,토요타 캠리 2016년형,캠리,토요타,0,0,Sedan,True,True
+163,랜드로버 레인지로버 스포츠 2018년형,레인지로버 스포츠,랜드로버,0,0,Mid-Large suv,True,True
+164,푸조 5008,5008,푸조,0,0,Small suv,True,True
+165,랜드로버 레인지로버 스포츠 2021년형,레인지로버 스포츠,랜드로버,0,0,Mid-Large suv,True,True
+166,아우디 쿠페 A5,A5,아우디,0,0,,True,True
+167,혼다 어코드 2010년형,어코드,혼다,0,0,Sedan,True,True
+168,포르쉐 파나메라 2021년형,파나메라,포르쉐,0,0,Sedan,True,True
+169,스바루 아웃백,아웃백,스바루,0,0,Mid-Large suv,True,True
+170,볼보 V40 2016년형,V40,볼보,0,0,Small suv,True,True
+171,랜드로버 레인지로버 보그 2012년형,레인지로버 보그,랜드로버,0,0,Mid-Large suv,True,True
+172,렉서스 NX 2021년형,NX,렉서스,0,0,Mid-Large suv,True,True
+173,벤츠 CLS-클래스 W219,CLS-클래스,벤츠,0,0,Sedan,True,True
+174,페라리 488,488,페라리,0,0,Coupe,True,True
+175,현대 제네시스 쿠페,제네시스 쿠페,현대,0,0,Coupe,True,True
+176,쉐보레/한국GM 뉴 라세티 J200,라세티,쉐보레/한국GM,0,0,Sedan,True,True
+177,푸조 5008 2020년형,5008,푸조,0,0,Small suv,True,True
+178,벤츠 EQC-클래스 N293,EQC-클래스,벤츠,0,N293,Mid-Large suv,True,True
+179,닛산 맥시마,맥시마,닛산,0,0,Sedan,True,True
+180,재규어 XF 2010년형,XF,재규어,0,0,Sedan,True,True
+181,현대파비스,파비스,현대,0,0,,True,False
+182,르노삼성 뉴제너레이션 SM3 N17,SM3,르노삼성,0,0,Sedan,True,True
+183,현대 갤로퍼,갤로퍼,현대,0,0,Mid-Large suv,True,True
+184,아우디 A7 4G8,A7,아우디,0,4G8,Sedan,True,True
+185,벤틀리 벤테이가 2021년형,벤테이가,벤틀리,0,0,Mid-Large suv,True,True
+186,V90CC,V90,볼보,0,0,Mid-Large suv,True,True
+187,재규어 E페이스 2019년형,E페이스,재규어,0,0,Small suv,True,True
+188,포르쉐 박스터 2015년형,박스터,포르쉐,0,0,Coupe,True,True
+189,벤츠 E-클래스 웨건 S213,E-클래스,벤츠,0,웨건 S213,Sedan,True,True
+190,랜드로버 디스커버리 2013년형,디스커버리,랜드로버,0,0,Mid-Large suv,True,True
+191,인피니티 QX 2017년형,QX,인피니티,0,0,Mid-Large suv,True,True
+192,BMW X5 M E70,X5 M,BMW,0,0,Mid-Large suv,True,True
+193,재규어 F페이스 2019년형,F페이스,재규어,0,0,Mid-Large suv,True,True
+194,지프 랭글러 2016년형,랭글러,지프,0,0,Mid-Large suv,True,True
+195,르노삼성 (출시예정) XM3 LJL,XM3,르노삼성,0,0,Small suv,True,True
+196,랜드로버 프리랜더 2011년형,프리랜더,랜드로버,0,0,Mid-Large suv,True,True
+197,포르쉐파나메라4S,파나메라,포르쉐,0,0,Sedan,True,True
+198,현대 쏠라티,쏠라티,현대,0,0,,True,False
+199,아우디 F/L A3 8V,A3,아우디,F/L,8V,Sedan,True,True
+200,렉서스 LS 2018년형,LS,렉서스,0,0,,False,True
+201,폭스바겐 티구안 2016년형,티구안,폭스바겐,0,0,Mid-Large suv,True,True
+202,혼다 오딧세이 2015년형,오딧세이,혼다,0,0,van,True,True
+203,볼보 2세대 크로스컨트리 S60,S60,볼보,0,0,Sedan,True,True
+204,스마트 포투 2020년형,포투,스마트,0,0,Coupe,True,True
+205,링컨 MKC 2020년형,MKC,링컨,0,0,Small suv,True,True
+206,포르쉐 718 2020년형,718,포르쉐,0,0,Coupe,True,True
+207,포르쉐 718 2019년형,718,포르쉐,0,0,Coupe,True,True
+208,푸조 3008 2018년형,3008,푸조,0,0,Small suv,True,True
+209,TM산타페,싼타페,현대,0,0,,True,True
+210,기아 3세대 K5 DL3,K5,기아,0,0,Sedan,True,True
+211,렉서스 IS 2009년형,IS,렉서스,0,0,,True,True
+212,링컨 MKX 2020년형,MKX,링컨,0,0,Mid-Large suv,True,True
+213,쌍용 카이런,카이런,쌍용,0,0,Mid-Large suv,True,True
+214,IG,그랜저,현대,0,0,,True,True
+215,시트로엥 DS7 2018년형,DS7,시트로엥,0,0,Mid-Large suv,True,True
+216,오스틴 FX,FX,오스틴,0,0,,False,True
+217,아큐라 ZDX 2020년형,ZDX,아큐라,0,0,Small suv,True,True
+218,푸조 308SW 2020년형,308SW,푸조,0,0,Small suv,True,True
+219,마쯔다 MPV 2020년형,MPV,마쯔다,0,0,Mid-Large suv,True,True
+220,현대 뉴 그레이스 AH,그레이스,현대,0,0,van,True,True
+221,토요타 알파드,알파드,토요타,0,0,van,True,True
+222,벤츠 AMG GT 43,AMG GT,벤츠,0,0,,True,False
+223,벤츠 S-클래스 W220,S-클래스,벤츠,0,W220,Sedan,True,True
+224,포르쉐 카레라GT,카레라GT,포르쉐,0,0,Coupe,True,True
+225,포드 익스플로러 2014년형,익스플로러,포드,0,0,Mid-Large suv,True,True
+226,랜드로버 디스커버리 2016년형,디스커버리,랜드로버,0,0,Mid-Large suv,True,True
+227,페라리 456 2019년형,456,페라리,0,0,Coupe,True,True
+228,토요타 시에나 2014년형,시에나,토요타,0,0,van,True,True
+229,미니 컨트리맨 2014년형,컨트리맨,미니,0,0,Small suv,True,True
+230,쉐보레/한국GM 콜벳,콜벳,쉐보레,0,0,Coupe,True,True
+231,아우디 A6 2016년형,A6,아우디,0,0,Sedan,True,True
+232,미니 쿠퍼 2017년형,쿠퍼,미니,0,0,,True,True
+233,미니 쿠퍼 2015년형,쿠퍼,미니,0,0,,True,True
+234,미니 쿠퍼 2011년형,쿠퍼,미니,0,0,,True,True
+235,BMW M2,M2,BMW,0,0,Sedan,True,True
+236,쌍용 뉴 카이런,카이런,쌍용,뉴,0,Mid-Large suv,True,True
+237,포드 F-시리즈 2012년형,F-시리즈,포드,0,0,Mid-Large suv,True,True
+238,미니 쿠퍼 2019년형,쿠퍼,미니,0,0,,True,True
+239,BMW Z4 E85/86,Z4,BMW,0,0,Coupe,True,True
+240,닛산 맥시마 2017년형,맥시마,닛산,0,0,Sedan,True,True
+241,캐딜락 ATS,ATS,캐딜락,0,0,Sedan,True,True
+242,링컨 MKZ 2013년형,MKZ,링컨,0,0,Sedan,True,True
+243,볼보 XC60 2015년형,XC60,볼보,0,0,Mid-Large suv,True,True
+244,랜드로버 레인지로버 벨라 2019년형,레인지로버 벨라,랜드로버,0,0,Mid-Large suv,True,True
+245,폭스바겐 제타 2011년형,제타,폭스바겐,0,0,Sedan,True,True
+246,아우디 A7 2013년형,A7,아우디,0,0,Sedan,True,True
+247,BMW M6 F06/12/13,M6,BMW,0,F06/12/13,Sedan,True,True
+248,포르쉐 카이엔 2015년형,카이엔,포르쉐,0,0,Mid-Large suv,True,True
+249,포드 머스탱 2019년형,머스탱,포드,0,0,Coupe,True,True
+250,랜드로버 레인지로버 2019년형,레인지로버,랜드로버,0,0,Mid-Large suv,True,True
+251,벤츠 GLK-클래스 2014년형,GLK-클래스,벤츠,0,0,Mid-Large suv,True,True
+252,아우디 A3 2018년형,A3,아우디,0,0,Sedan,True,True
+253,아우디 A5 2015년형,A5,아우디,0,0,Sedan,True,True
+254,렉서스 LX 2015년형,LX,렉서스,0,0,Mid-Large suv,True,True
+255,아우디 S3 2015년형,S3,아우디,0,0,Sedan,True,True
+256,쉐보레/대우 아카디아,아카디아,쉐보레/한국GM,0,0,Sedan,True,True
+257,토요타 RAV4 2013년형,RAV4,토요타,0,0,Mid-Large suv,True,True
+258,지프 사하라 2019년형,사하라,지프,0,0,Mid-Large suv,True,True
+259,쌍용 무쏘 스포츠 FJ,무쏘 스포츠,쌍용,0,0,Mid-Large suv,True,True
+260,아우디 올로드콰트로 2017년형,올로드콰트로,아우디,0,0,Mid-Large suv,True,True
+261,쉐보레/대우 뉴 크루즈 J300,크루즈,쉐보레/한국GM,뉴,J300,Sedan,False,True
+262,포르쉐 카이엔 2013년형,카이엔,포르쉐,0,0,Mid-Large suv,True,True
+263,혼다 CR-V 2007년형,CR-V,혼다,0,0,Small suv,True,True
+264,쉐보레/대우 아베오 T300,아베오,쉐보레/한국GM,0,T300,Sedan,True,True
+265,벤츠 GL-클래스 X166,GL-클래스,벤츠,0,0,Mid-Large suv,True,True
+266,포르쉐 파나메라 2015년형,파나메라,포르쉐,0,0,Sedan,True,True
+267,쉐보레/대우 올뉴 크루즈 J400,크루즈,홀덴,올뉴,J400,Sedan,True,True
+268,폭스바겐 비틀 2014년형,비틀,폭스바겐,0,0,Sedan,True,True
+269,911시리즈,911,포르쉐,0,0,Coupe,True,True
+270,벤츠 E-클래스 2018년형,E-클래스,벤츠,0,0,Sedan,True,True
+271,뉴라이즈 HEV 쏘나타 LF,쏘나타,현대,뉴라이즈 HEV,LF,Sedan,True,True
+272,4 시리즈,4 시리즈,BMW,0,0,Sedan,True,True
+273,GLC-클래스 2019년형,GLC-클래스,벤츠,0,0,Mid-Large suv,True,True
+274,코나 OS,코나,현대,0,OS,Small suv,True,True
+275,익스플로러 2019년형,익스플로러,포드,0,0,Mid-Large suv,True,True
+276,Neo SM3 L38,SM3,르노삼성,0,0,Sedan,True,True
+277,SS 카마로 6세대,카마로,쉐보레,SS,6세대,Coupe,True,True
+278,CT,CT,렉서스,0,0,Sedan,True,True
+279,티구안 2018년형,티구안,폭스바겐,0,0,Mid-Large suv,True,True
+280,캠리 ,캠리,토요타,0,0,Sedan,True,True
+281,모하비 HM 더뉴,모하비,기아,0,HM,Mid-Large suv,True,True
+282,K9 ,K9,기아,0,0,Sedan,True,True
+283,아반떼 AD,아반떼,현대,0,AD,Sedan,True,True
+284,i30 PD,i30,현대,0,0,Sedan,True,True
+285,G70 ,G70,제네시스,0,0,Sedan,True,True
+286,ES ,ES,렉서스,0,0,Sedan,True,True
+287,니로 DE PHEV,니로,기아,PHEV,DE,Small suv,True,True
+288,C-클래스 2017년형,C-클래스,벤츠,0,0,Sedan,True,True
+289,파나메라 ,파나메라,포르쉐,0,0,Sedan,True,True
+290,CLS-클래스 ,CLS-클래스,벤츠,0,0,Sedan,True,True
+291,GLC-클래스 ,GLC-클래스,벤츠,0,0,Mid-Large suv,True,True
+292,6 시리즈,6 시리즈,BMW,0,0,Sedan,True,True
+293,체로키,체로키,지프,0,0,Mid-Large suv,True,True
+294,SM6,SM6,르노삼성,0,0,Sedan,True,True
+295,S,,,0,0,,True,False
+296,투아렉,투아렉,폭스바겐,0,0,Mid-Large suv,True,True
+297,미니쿠퍼클럽맨,클럽맨,미니,0,0,Sedan,True,True
+298,2011미니쿠퍼클럽맨,클럽맨,미니,0,0,Sedan,True,True
+299,E400쿠페,E-클래스,벤츠,0,0,,True,True
+300,XE,XE,재규어,0,0,Sedan,True,True
+301,시트로앵DS3,DS3,시트로엥,0,0,Sedan,True,True
+302,하이럭스서프,하이럭스,토요타,0,0,Mid-Large suv,True,True
+303,XJ시리즈,XJ,재규어,0,0,Sedan,True,True
+304,토요타86,도요타86,토요타,0,0,,True,True
+305,540FH,540FH,볼보,0,0,,True,False
+306,벤츠 My B,B-클래스,벤츠,0,0,,True,True
+307,엑티브투어러,2 시리즈,BMW,0,0,,True,True
+308,제네시스BH,제네시스,현대,0,BH,Sedan,True,True
+309,폭스바겐 페이톤 2009년형,페이톤,폭스바겐,0,0,,True,True
+310,인피니티 G 시리즈 2007년형,G 시리즈,인피니티,0,0,Sedan,True,True
+311,재규어 F페이스 2016년형,F페이스,재규어,0,0,Mid-Large suv,True,True
+312,토요타 캠리 2011년형,캠리,토요타,0,0,Sedan,True,True
+313,미니쿠퍼 ,쿠퍼,미니,0,0,,True,True
+314,한성8.5톤플러스카고,,,0,0,,True,False
+315,토요타 시에나 2015년형,시에나,토요타,0,0,van,True,True
+316,현대 베르나 MC,베르나,현대,0,MC,Sedan,True,True
+317,렉서스 ES 2007년형,ES,렉서스,0,0,,True,True
+318,크라이슬러 200 2017년형,200,크라이슬러,0,0,,True,True
+319,시트로엥 C4 칵투스 2018년형,C4 칵투스,시트로엥,0,0,Small suv,True,True
+320,기아 스팩트라,스팩트라,기아,0,0,Sedan,True,True
+321,푸조 3008 2011년형,3008,푸조,0,0,Small suv,True,True
+322,크라이슬러 PT크루저,PT크루저,크라이슬러,0,0,Sedan,True,True
+323,링컨 MKS 2011년형,MKS,링컨,0,0,Sedan,True,True
+324,시트로엥 C4 피카소 2021년형,C4 피카소,시트로엥,0,0,van,True,True
+325,현대 베르나,베르나,현대,0,0,Sedan,True,True
+326,아우디 쿠페 A5 8W6,A5,아우디,0,0,,True,True
+327,쉐보레 실버라도 픽업,실버라도 픽업,쉐보레,0,0,Mid-Large suv,True,True
+328,기아 2 카렌스 RS,카렌스,기아,2,RS,Small suv,True,True
+329,2.5T 마이티,,,0,0,,True,False
+330,현대5톤,,,0,0,,True,False
+331,마세라티 그란투리스모 2015년형,그란투리스모,마세라티,0,0,Sedan,True,True
+332,닛산 무라노 Z51,무라노,닛산,0,0,Mid-Large suv,True,True
+333,인피니티 G 쿠페 2011년형,G 쿠페,인피니티,0,0,Coupe,True,True
+334,폭스바겐 비틀 2012년형,비틀,폭스바겐,0,0,Sedan,True,True
+335,렉서스 GS 2008년형,2008,푸조,0,0,Small suv,True,True
+336,랜드로버 레인지로버 보그 2009년형,레인지로버 보그,랜드로버,0,0,Mid-Large suv,True,True
+337,혼다 HR-V 2021년형,HR-V,혼다,0,0,Sedan,True,True
+338,폭스바겐 비틀 2007년형,비틀,폭스바겐,0,0,,True,True
+339,포드 E-시리즈 2021년형,E-시리즈,포드,0,0,van,True,True
+340,매가트럭 5TON,,,0,0,,True,False
+341,폭스바겐 파사트 2020년형,파사트,폭스바겐,0,0,Sedan,True,True
+342,현대 그랜저 LX,그랜저,현대,0,0,Sedan,True,True
+343,랜드로버 레인지로버 이보크 2018년형,레인지로버 이보크,랜드로버,0,0,Mid-Large suv,True,True
+344,링컨 MKX 2011년형,MKX,링컨,0,0,Mid-Large suv,True,True
+345,미니 쿠퍼 2013년형,쿠퍼,미니,0,0,,True,True
+346,푸조 308 2013년형,308,푸조,0,0,Coupe,True,True
+347,볼보 XC60 2012년형,XC60,볼보,0,0,Mid-Large suv,True,True
+348,488 스파이더,스파이더,알파로메오,0,0,Coupe,True,True
+349,현대4.5톤,,,0,0,,True,False
+350,포드 토러스 2009년형,토러스,포드,0,0,,True,True
+351,칸 렉스턴 스포츠 Q200,렉스턴 스포츠,쌍용,0,0,Mid-Large suv,True,True
+352,GMC 벤츄라 2020년형,벤츄라,GMC,0,0,van,True,True
+353,혼다 어코드 2007년형,어코드,혼다,0,0,,True,True
+354,머큐리 마운티니어,마운티니어,머큐리,0,0,Mid-Large suv,True,True
+355,지프 컴패스 2019년형,컴패스,지프,0,0,Mid-Large suv,True,True
+356,GMC 사파리 2019년형,사파리,GMC,0,0,van,True,True
+357,재규어 XJ 2016년형,XJ,재규어,0,0,Sedan,True,True
+358,닛산 로그 2017년형,로그,닛산,0,0,Mid-Large suv,True,True
+359,현대 아이오닉 HEV,아이오닉,현대,HEV,0,Sedan,True,True
+360,르노 클리오 2020년형,클리오,르노,0,0,Sedan,True,True
+361,캐딜락 ATS 2015년형,ATS,캐딜락,0,0,Sedan,True,True
+362,렉서스 LS 2006년형,LS,렉서스,0,0,,False,True
+363,포드 퓨전 2013년형,퓨전,포드,0,0,Sedan,True,True
+364,기아 올뉴카렌스,카렌스,기아,올뉴,0,Small suv,True,True
+365,벤츠 E-클래스 E220d 4MATIC,E-클래스,벤츠,0,0,Sedan,True,True
+366,bmw 420D,4 시리즈,BMW,0,0,,True,True
+367,미니 2열 쿠퍼 2017년형,2열 쿠퍼,미니,0,0,Sedan,True,True
+368,아우디 Q5 2011년형,Q5,아우디,0,0,Mid-Large suv,True,True
+369,스바루 아웃백 2011년형,아웃백,스바루,0,0,Mid-Large suv,True,True
+370,로터스 에보라,에보라,로터스,0,0,Coupe,True,True
+371,기아 하이브리드 포르테 쿱 XK,포르테 쿱,기아,0,0,Coupe,True,True
+372,볼보 V60 2015년형,V60,볼보,0,0,Mid-Large suv,True,True
+373,쉐보레 카마로 2019년형,카마로,쉐보레,0,0,Coupe,True,True
+374,SLS,SLS AMG,벤츠,0,0,,True,True
+375,토요타 셀리카,셀리카,토요타,0,0,Coupe,True,True
+376,닷지 듀랑고 2018년형,듀랑고,닷지,0,0,Mid-Large suv,True,True
+377,볼보 XC70 2016년형,XC70,볼보,0,0,Mid-Large suv,True,True
+378,INFINITI EX35,EX,인피니티,0,0,Mid-Large suv,True,True
+379,벤츠 GLE-클래스 2014년형,GLE-클래스,벤츠,0,0,Mid-Large suv,True,True
+380,닛산 큐브 2012년형,큐브,닛산,0,0,Sedan,True,True
+381,M30d,M 시리즈,인피니티,0,0,Sedan,True,True
+382,쉐보레/대우 카마로,카마로,쉐보레,0,0,Coupe,True,True
+383,닛산 엑스테라 2019년형,엑스테라,닛산,0,0,Mid-Large suv,True,True
+384,볼보 S60 2006년형,S60,볼보,0,0,,True,True
+385,C-HR,C-HR,토요타,0,0,Coupe,True,True
+386,닛산 알티마 2019년형,알티마,닛산,0,0,Sedan,True,True
+387,링컨 MKZ 2018년형,MKZ,링컨,0,0,Sedan,True,True
+388,Touareg,투아렉,폭스바겐,0,0,,True,True
+389,올뉴 K3 BD,K3,기아,올뉴,BD,Sedan,True,True
+390,더프라임 싼타페 DM,싼타페,현대,더프라임,DM,Mid-Large suv,True,True
+391,NX ,NX,렉서스,0,0,Mid-Large suv,True,True
+392,쏘렌토 XM R,쏘렌토,기아,R,XM,Mid-Large suv,True,True
+393,E-클래스 2015년형,E-클래스,벤츠,0,0,Sedan,True,True
+394,트랙스 ,트랙스,쉐보레/한국GM,0,0,Small suv,True,True
+395,크루즈 ,크루즈,홀덴,0,0,Sedan,True,True
+396,EOS,EOS,폭스바겐,0,0,,True,False
+397,R8,R8,아우디,0,0,Coupe,True,True
+398,A8,A8,아우디,0,0,Sedan,True,True
+399,F-Type,F타입,재규어,0,0,,True,True
+400,2011 미니쿠퍼컨퍼터블,쿠퍼 컨버터블,미니,0,0,,True,True
+401,포투,포투,스마트,0,0,Coupe,True,True
+402,IS250C 컨퍼터블,IS,렉서스,0,0,Sedan,True,True
+403,혼다INSIGHT,인사이트,혼다,0,0,,True,True
+404,9-5시리즈,,,0,0,,True,False
+405,BB,bB,토요타,0,0,,True,True
+406,그레이스,그레이스,현대,0,0,van,True,True
+407,지프커맨더,커맨더,지프,0,0,Mid-Large suv,True,True
+408,현대 제네시스쿠페,제네시스 쿠페,현대,0,0,Sedan,True,True
+409,BMW new3시리즈,3 시리즈,BMW,0,0,,True,True
+410,렉서스 RX시리즈,RX,렉서스,0,0,,False,True
+411,2011 미니 컨트리맨,컨트리맨,미니,0,0,Small suv,True,True
+412,S7,S7,아우디,0,0,Sedan,True,True
